@@ -9,5 +9,6 @@ Modify at 2015-06-26 at home
 
 修复 issue #2
 
-财务管理子系统 开发完成
+财务管理子系统 开发完成 -> 修复HR ISSUE #1
+
 
