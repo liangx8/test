@@ -14,3 +14,7 @@ Modify at 2015-06-26 at home
 销售子开发完成
 
 库存管理子系统 V0.3 发布
+
+
+# GIT 使用的练习游戏
+[GIT 使用的练习游戏](http://pcottle.github.io/learnGitBranching/)
